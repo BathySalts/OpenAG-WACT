@@ -12,7 +12,7 @@ OpenAG is an open-source client of the Half-Life promod Adrenaline Gamer, comple
 1. Install [Visual Studio 2019](https://my.visualstudio.com/Downloads?q=Visual%20Studio%20Community%202019). In the Visual Studio Installer, select Desktop Development for C++.
 1. Open Visual Studio.
 1. On the starting screen, click "Clone or check out code".
-1. Enter `https://github.com/YaLTeR/OpenAG.git` and press the Clone button. Wait for the process to finish.
+1. Enter `https://github.com/BathySalts/OpenAG-WACT.git` and press the Clone button. Wait for the process to finish.
 1. You can build the project using Build→Build All. To find the built client.dll, go to Project→CMake Cache (x86-Debug Only)→Open in Explorer.
 
 ### Visual Studio 2017
@@ -23,7 +23,7 @@ OpenAG is an open-source client of the Half-Life promod Adrenaline Gamer, comple
 
     ![Screenshot of the clone button.](https://user-images.githubusercontent.com/1794388/77243489-8e90ea00-6c1b-11ea-8000-09d576266162.png)
 
-    Enter `https://github.com/YaLTeR/OpenAG.git` and press the Clone button. Wait for the process to finish.
+    Enter `https://github.com/BathySalts/OpenAG-WACT.git` and press the Clone button. Wait for the process to finish.
 1. You can build the project using CMake→Build All. To find the built client.dll, go to CMake→Cache (x86-Debug Only)→Open Cache Folder→OpenAG.
 
 ### Manually using Git and CMake
@@ -48,7 +48,7 @@ OpenAG is an open-source client of the Half-Life promod Adrenaline Gamer, comple
 1. Set up FlatHub by following the [guide](https://flatpak.org/setup/) for your distribution.
 1. Install [GNOME Builder](https://flathub.org/apps/details/org.gnome.Builder).
 1. Open GNOME Builder.
-1. Press the Clone Repository button, enter `https://github.com/YaLTeR/OpenAG.git` and press Clone Project. Wait until it finishes.
+1. Press the Clone Repository button, enter `https://github.com/BathySalts/OpenAG-WACT.git` and press Clone Project. Wait until it finishes.
 
    The cloning window should close, and a new window with the OpenAG project should open. If the cloning window doesn't close after a minute, close it manually, open Builder, and open the folder that OpenAG was cloned into.
 1. If Builder prompts you to install missing SDKs, press Install and wait for the process to finish. It will take a while. You can monitor the progress by pressing the circle in the top-right.
